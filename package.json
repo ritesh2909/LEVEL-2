@@ -1,0 +1,16 @@
+{
+  "name": "college_data",
+  "version": "1.0.0",
+  "description": "college data",
+  "main": "college_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh Arora",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
